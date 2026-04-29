@@ -30,7 +30,6 @@ const PLAYER_LIFES = 3;
 
 // enemy constants
 const ENEMY_SIZE_SM = 20;
-const ENEMY_SIZE_MD = 25;
 const ENEMY_SIZE_LG = 30;
 const ENEMY_SPEED = 5;
 
